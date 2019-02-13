@@ -1,0 +1,2 @@
+# LineBot_with_Database
+使用python flask_sqlalchemy在Heroku上連結heroku-postgresql資料庫
