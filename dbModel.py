@@ -52,5 +52,3 @@ def loadUserData():
 
 if __name__ == '__main__':
     manager.run()
-
-type(db)
